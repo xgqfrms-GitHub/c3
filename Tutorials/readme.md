@@ -43,7 +43,7 @@ var chart = c3.generate({
     }
 });
 ``` 
-![]()
+![c3.gif](c3.gif)
 
 ## examples 例子   
 http://c3js.org/examples.html  
