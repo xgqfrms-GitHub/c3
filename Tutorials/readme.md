@@ -2,6 +2,8 @@
 
 http://c3js.org/  
 https://d3js.org/  
+https://github.com/xgqfrms-GitHub/d3/blob/gh-pages/Tutorials/readme.md  
+
 
 > C3.js D3-based reusable chart library  
 
